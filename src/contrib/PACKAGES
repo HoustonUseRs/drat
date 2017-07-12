@@ -1,0 +1,9 @@
+Package: pipefittr
+Version: 0.1.2
+Depends: R (>= 3.0.0)
+Imports: magrittr, miniUI (>= 0.1.1), rstudioapi (>= 0.4), shiny (>=
+        0.13), stringr
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: 1b882719eace9c5f2ddd3088df42742a
+NeedsCompilation: no
